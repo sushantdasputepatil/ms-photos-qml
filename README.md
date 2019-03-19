@@ -9,3 +9,5 @@ Know QtQuick styling in material design and Universal design guidelines
 Understand Qt.
 
 Write a Major application fully written in Qml
+__________________________________________________________________________________________
+To run this app select qmlscene from ~/Qt5.11.0/5.11.0/gcc_64/bin/ & now select ur app.qml.
