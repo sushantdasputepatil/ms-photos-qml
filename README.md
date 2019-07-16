@@ -14,6 +14,6 @@ ________________________________________________________________________________
 To run this app select qmlscene from ~/Qt5.11.0/5.11.0/gcc_64/bin/ & now select ur app.qml.
 __________________________________________________________________________________________
 Youtube Video Link - https://youtu.be/fYFalUq8cX4
-
+[![forthebadge](https://img.shields.io/badge/Sushant--Daspute-Patil-orange.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
